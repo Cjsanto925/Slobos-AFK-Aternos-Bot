@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Cjsanto925.aternos.me",
     "port": 47217,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
